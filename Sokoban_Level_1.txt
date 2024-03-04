@@ -1,0 +1,10 @@
+  WWWWW 
+WWW   W 
+W HC  W 
+WWW C W 
+W WWC W 
+W W   WW
+WC CCC W
+W      W
+WWWWWWWW
+[(2,3),(3,4),(4,4),(6,1),(6,3),(6,4),(6,5)]
